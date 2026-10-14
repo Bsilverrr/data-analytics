@@ -1,0 +1,161 @@
+Exercise 3.A Reviewing Survey Results
+
+For each survey question:
+1. What conclusion can you reach about the responses to this question?
+2. Is the default summary or visualization helpful? How could it be improved?
+3. For questions with an "Other" option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+
+
+QUESTION 1: What do you envision yourself doing 5 minutes before
+class starts each day, to ensure that you are ready to start on time?
+
+1. Most people said the same few things: checking that their tech
+works, joining the Zoom link early, and reviewing notes from the last
+class.
+
+2. The word cloud is okay but the biggest term is "minutes before
+class," which is just the question repeated back. Half the class
+echoed the wording, so the chart highlights noise instead of actual
+answers.
+
+3. N/A, this one is free text.
+
+4. The word cloud counts single words, so it can't tell that "review
+my notes" and "look over material" mean the same thing. Everyone
+words it differently and some answers cover more than one topic.
+
+5. Turn it into checkboxes for the common prep steps with an Other
+field, so the answers can actually be counted.
+
+QUESTION 2: Do you have a second monitor connected to your computer?
+
+1. The chart says No 13, Yes 2, Other 9. But reading the Other
+answers, 8 of them say "Yes, I have second monitor." So the real
+count is 10 Yes out of 24, about 42%, not 8%.
+
+2. No. The donut chart is actually wrong. If you only looked at the
+chart you would think almost nobody has a second monitor, when it is
+closer to half the class.
+
+3. Click More details to see the Other text. The tricky part is that
+almost all of the Other answers are Yes answers that got typed out
+instead of selected, so they never get counted as Yes. There is also
+one "Maybe," which is not a valid answer to a yes/no question.
+
+4. Same issue, the written answers all mean the same thing but none
+of them match the Yes option exactly.
+
+5. Keep it Yes/No but define what counts, like whether a tablet or a
+second laptop counts as a second monitor.
+
+
+QUESTION 3: Do you have an external keyboard and mouse?
+
+
+1. Same thing as question 2. Chart says No 13, Yes 2, Other 9, but 6
+of the Other answers say "Yes, I have an external mouse and
+keyboard." Real total is 8 Yes out of 24.
+
+2. No, for the same reason. The chart undercounts Yes by a lot.
+
+3. More details. Two answers were "External mouse, not
+keyboard" and "I have a mouse," which shows the question is asking
+about two things at once. People cannot answer Yes or No
+honestly.
+
+4. The written answers are all slightly different versions of yes.
+
+5. Split it into two questions, or use checkboxes for keyboard /
+mouse / neither.
+
+
+QUESTION 4: How do you plan to take notes for this class - in a doc
+on your computer, with pen and paper, or something else?
+
+
+1. The chart says "With pen and paper 1, Other 23," which is useless.
+Reading the actual answers, it is pen and paper 10, computer 8, both
+5, iPad 1.
+
+2. No. Only one person's answer matched the one option exactly, so
+96% went into Other. The chart shows nothing real.
+
+3. More details. A few problems I noticed:
+   - "With pen and paper" and "With pen and paper. I have a
+     designated notebook." are the same answer but counted
+     separately, which splits 10 people into 9 and 1.
+   - One answer came through as ["On my computer"] with brackets and
+     quotes, so formatting characters leaked into the data.
+   - 4 people answered "A and B," but the form has no lettered
+     options, so the question must have changed after people
+     responded.
+
+4. Nothing groups on its own. You have to read all 24 and sort them
+by hand.
+
+5. Add the options the question actually names: on my computer, pen
+and paper, tablet, and both.
+
+
+QUESTION 5: What is one question that you have right now, about this
+course generally or about a specific topic we'll be talking about?
+
+1. People mostly want to know what tools they will learn and how it
+applies to a real job. The word cloud shows data, Data Analyst, AI,
+python, predictive analytics, skills, and languages.
+
+2. The word cloud is okay but "data" is the biggest word, which tells
+you nothing in a data analytics class. The smaller terms around it
+are where the useful stuff is.
+
+3. N/A
+
+4. At least one answer was "So far, I have no questions," which is
+not a question and would have to be filtered out before analyzing.
+
+5. Add a "No questions right now" checkbox so you can tell the
+difference between people who skipped it and people who had nothing
+to ask.
+
+
+6. Is there anything that surprised you about the survey responses?
+
+
+How wrong the charts were. All three multiple choice questions had
+huge Other buckets full of answers that should have been counted as
+Yes or as one of the listed options. If I had only looked at the
+summary page I would have gotten every single one of them wrong.
+
+
+7. Looking at the responses to questions 1 and 5, are there any ideas
+you might try to include in your morning routine, or any questions
+that you are also curious about?
+
+
+Joining the Zoom early and reviewing the last class's notes in those
+five minutes instead of just logging in at the exact time without doing so. Questions I also have:
+how much SQL and Python we actually cover, and how this applies to
+real analyst work.
+
+
+8. Pretend you are the instructor. Is there anything you can learn
+from this survey to help in how you approach teaching this class?
+
+
+The equipment answers are worth checking by hand before assuming
+anything, since the charts are off. Beyond that, people clearly want
+to know what tools they will learn and how the work translates to an
+actual job, so setting those expectations early would help.
+
+9. Again, pretend you are the instructor. Do you think it was helpful
+or not helpful to make this survey anonymous? Why or why not?
+
+
+It was anonymous, and I think that was the right call. People
+admitted stuff like drinking coffee and waking up and asked how
+hard the course would get, which they might not say with their name
+on it. The tradeoff is the instructor cannot follow up with the
+people who asked about tutoring, because there is no way to know who
+they are.
