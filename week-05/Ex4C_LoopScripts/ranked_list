@@ -1,0 +1,7 @@
+favorite_foods = ['oxtail', 'tacos', 'ramen', 'jerk chicken', 'pierogi']
+
+for index, food in enumerate(favorite_foods, 1):
+    if index == 1:
+        print(f'{index}. {food} <- top pick!')
+    else:
+        print(f'{index}. {food}')
